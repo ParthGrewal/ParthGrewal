@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Parth Grewal</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | Data Analyst | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Building+Scalable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Data+Analyst;Problem+Solver;" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 📌 About Me
 
-I'm an aspiring Full Stack Developer with a strong grasp of **Data Structures & Algorithms** and a passion for building scalable, AI-driven applications. I enjoy solving real-world problems through clean, efficient code while contributing to innovative, user-focused tech projects that drive meaningful change.
+I'm an aspiring Full Stack Developer with a passion for building scalable and AI-driven applications. I enjoy solving real-world problems through clean, efficient code while contributing to innovative, user-focused tech projects that drive meaningful change.
 
 ---
 
@@ -26,16 +26,16 @@ I'm an aspiring Full Stack Developer with a strong grasp of **Data Structures & 
 ### 🧑‍💼 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/parthgrewal" target="_blank">
+  <a href="https://www.linkedin.com/in/parth-grewal-44020525b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/parthgrewal" target="_blank">
+  <a href="https://x.com/grewal_parth" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:parthgrewal200@gmail.com">
+  <a href="mailto:parthgrewal2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/parthgrewal" target="_blank">
+  <a href="https://github.com/ParthGrewal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -63,9 +63,6 @@ I'm an aspiring Full Stack Developer with a strong grasp of **Data Structures & 
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
   </a>
 </p>
 
@@ -96,25 +93,6 @@ I'm an aspiring Full Stack Developer with a strong grasp of **Data Structures & 
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  </a>
-</p>
-
-#### 🤖 AI / ML
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  </a>
 </p>
 
 #### 🔧 DevOps & Tools
@@ -134,25 +112,8 @@ I'm an aspiring Full Stack Developer with a strong grasp of **Data Structures & 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthgrewal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthgrewal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthgrewal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ### 💡 Interests
 
