@@ -17,9 +17,9 @@ I'm an aspiring Full Stack Developer with a passion for building scalable and AI
 
 | Project | Description |
 |--------|-------------|
-| 📈 [**Sensai**](https://github.com/parthgrewal/sensai) | AI-powered career guidance platform |
-| 🏥 [**BookMyDoc**](https://github.com/parthgrewal/bookmydoc) | Online doctor appointment booking |
-| 🚗 [**RideX**](https://github.com/parthgrewal/ridex) | Easy ride-booking platform |
+| 📈 [**sensai**](https://github.com/parthgrewal/sensai) | AI-powered career guidance platform |
+| 🏥 [**bookmyDoc**](https://github.com/parthgrewal/bookmydoc) | Online doctor appointment booking |
+| 🚗 [**rideX**](https://github.com/parthgrewal/ridex) | Easy ride-booking platform |
 
 ---
 
